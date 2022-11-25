@@ -1,1 +1,2 @@
-# Principal-Component-Analysis-Dimensionality-Reduction-
+# Principal-Component-Analysis-Dimensionality-Reduction
+**I have applied Principal Component Analysis Algorithm for dimensionality reduction, I have plotted Scree plot, plot of Cumulative variance against number of Principal Component scores and performed clustering (both Hierarchical and K-Means) using the first three Principal Component Scores and obtained optimum number of clusters by plotting Dendrogram and performed Silhouette Analysis for Heirarchical and K-Means clustering algorithm respectively.**
